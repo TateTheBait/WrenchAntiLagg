@@ -4,3 +4,5 @@ REQUIREMENTS: OXLIB
 
 
 USAGE: While in a car use /antilagg to enable your antilag for that car.
+
+*** CLIENT ONLY ***
